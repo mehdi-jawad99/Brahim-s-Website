@@ -1,0 +1,199 @@
+{
+  "profile": {
+    "name": "Brahim Manneta",
+    "title": "Senior JavaScript Developer",
+    "bio": "Brahim has deployed his first HTML website when he was 16 years old. and after 14 years later he is now a Lead React Developer @"
+  },
+  "experience": [
+    {
+      "id": "1",
+      "logo": "/images/innoveos.png",
+      "title": "Lead React Developer",
+      "company": "Innoveos",
+      "type": "Freelance",
+      "jobDate": "Jan 2020 – Present",
+      "period": "4 Mos",
+      "description": "Leading a small team to Build the front end part of the ONCF (Morocco's national railway operator) Ecommerce Website using the MERN STACK.",
+      "tags": [
+        "Javascript",
+        "React.js",
+        "Redux",
+        "Node.js",
+        "express.js",
+        "MERN Stack",
+        "Nginx"
+      ]
+    },
+    {
+      "id": "2",
+      "logo": "/images/mcdonalds.png",
+      "title": "Senior React Developer",
+      "company": "McDonald's",
+      "type": "Full-time",
+      "jobDate": "Feb 2019 – Jan 2020",
+      "period": "1 Yr",
+      "description": "Developing a Back Office that allows you to create and manage services, pages, roles, parameters dynamically without need of any front end hard coding.",
+      "tags": ["Javascript", "React.js", "Fabric UI", "Redux", "keycloak"]
+    },
+    {
+      "id": "3",
+      "logo": "/images/innoscripta.png",
+      "title": "Senior Full-stack Developer & Front-end Software Architect",
+      "company": "Innoscripta",
+      "type": "Freelance",
+      "jobDate": "Dec 2017 – Oct 2018",
+      "period": "11 Mos",
+      "description": "Architecting and developing a big cloud application from scratch using Javascript, React.js, Material UI, PHP, Laravel, MySql. and merge the React.js App with an existing angular application.",
+      "tags": [
+        "Javascript",
+        "React.js",
+        "Material UI",
+        "PHP",
+        "Laravel",
+        "MySql"
+      ]
+    },
+    {
+      "id": "4",
+      "logo": "/images/free.png",
+      "title": "Senior Developer",
+      "company": "Freelancer",
+      "type": null,
+      "jobDate": "May 2015 – Nov 2017",
+      "period": "2 yrs 7 Mos",
+      "description": "Building Web, Mobile and desktop Apps adapted to my customers specific needs in order to meet all there business objectives, expectations and requirements.",
+      "tags": [
+        "Javascript",
+        "React.js",
+        "Node.js",
+        "express.js",
+        "HTML5",
+        "CSS3",
+        "electron",
+        "Mongodb",
+        "Cordova",
+        "PHP",
+        "Laravel",
+        "Mysql",
+        "Jquery",
+        "C++",
+        "GTKmm",
+        "sqlite"
+      ]
+    },
+    {
+      "id": "5",
+      "logo": "/images/elouard.png",
+      "title": "Full-Stack php Developer",
+      "company": "Elouard",
+      "type": "Full-Time",
+      "jobDate": "Nov 2014 – Apr 2015",
+      "period": "6 Mos",
+      "description": "Working in ongoing Projects, create new projects for some big French brands.",
+      "tags": ["PHP", "Mysql", "HTML", "CSS", "javascript", "jquery", "ajax"]
+    },
+    {
+      "id": "6",
+      "logo": "/images/free.png",
+      "title": "Software Developer",
+      "company": "Freelancer",
+      "type": null,
+      "jobDate": "Sup 2013 – Oct 2014",
+      "period": "1 yr 2 Mos",
+      "description": "Building small applications, fix bugs, help in ongoing projects.",
+      "tags": ["JAVA SE", "C#", ".NET", "SQL SERVER", "Mysql"]
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "logo": "/images/self.jpg",
+      "univercity": "Self Learning",
+      "specialist": "Online Courses and Certification in IT",
+      "duration": "2013 – Present",
+      "description": "I belive that self learning is the key of self growth, so to become skilled and expert you need to take dozens of courses, read hundreds of articles and dozens of books a year, and hone all what you learned by practicing.",
+      "tags": [
+        "Web Development",
+        "Software Development",
+        "Linux System Administration",
+        "Cloud Development",
+        "DevOps"
+      ]
+    },
+    {
+      "id": "2",
+      "logo": "/images/ofppt.png",
+      "univercity": "Specialized Institute of Applied Technology",
+      "specialist": "Associate degree in Software Development Techniques",
+      "duration": "2011 – 2013",
+      "description": "Learning the software development Fundamentals.",
+      "tags": [
+        "Algorithms",
+        "UML",
+        "VB.NET",
+        "ASP.NET",
+        "SQL SERVER",
+        "HTML",
+        "CSS",
+        "JAVASCRIPT"
+      ]
+    }
+  ],
+  "contact": {
+    "email": "hello@manneta.com",
+    "socials": [
+      {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/manneta/",
+        "Icon": "Linkedin"
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.yourube.com/#",
+        "Icon": "Youtube"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://www.twitter.com/#",
+        "Icon": "Twitter"
+      },
+      {
+        "platform": "facebook",
+        "url": "https://www.fb.com/#",
+        "Icon": "Facebook"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/beardandcode",
+        "Icon": "Instagram"
+      }
+    ]
+  },
+  "languages": [
+    {
+      "name": "Arabic",
+      "title": "Arabic",
+      "level": "Native or bilingual proficiency "
+    },
+    {
+      "name": "Tamazight",
+      "title": "Tamazight",
+      "level": "Native or bilingual proficiency "
+    },
+    {
+      "name": "English",
+      "title": "English",
+      "level": "Native or bilingual proficiency "
+    },
+    {
+      "name": "Japanese",
+      "title": "Japanese",
+      "level": "Limited working proficiency "
+    },
+    {
+      "name": "Chinese",
+      "title": "Chinese",
+      "level": "Elementary proficiency "
+    }
+  ]
+}

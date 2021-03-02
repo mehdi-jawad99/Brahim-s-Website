@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Brahim-s-Website/static/js/main.7756403d.chunk.js",
+    "main.js.map": "/Brahim-s-Website/static/js/main.7756403d.chunk.js.map",
+    "runtime-main.js": "/Brahim-s-Website/static/js/runtime-main.55fbb7d6.js",
+    "runtime-main.js.map": "/Brahim-s-Website/static/js/runtime-main.55fbb7d6.js.map",
+    "static/js/2.8d5d02ed.chunk.js": "/Brahim-s-Website/static/js/2.8d5d02ed.chunk.js",
+    "static/js/2.8d5d02ed.chunk.js.map": "/Brahim-s-Website/static/js/2.8d5d02ed.chunk.js.map",
+    "index.html": "/Brahim-s-Website/index.html",
+    "static/js/2.8d5d02ed.chunk.js.LICENSE.txt": "/Brahim-s-Website/static/js/2.8d5d02ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55fbb7d6.js",
+    "static/js/2.8d5d02ed.chunk.js",
+    "static/js/main.7756403d.chunk.js"
+  ]
+}
