@@ -1,4 +1,5 @@
-import React from "react";
+import React, { useEffect } from "react";
+import { useDispatch } from "react-redux";
 import Profile from "./profile";
 import dataSelector from "../redux/selectors/dataSelector";
 import mainColor from "../redux/selectors/mainColSelector";
@@ -10,8 +11,15 @@ import Languages from "./languages";
 import Contact from "./contact";
 import Footer from "./footer";
 import { BrowserRouter as Router } from "react-router-dom";
+import { getData } from "../redux/actions/actions";
 
 function Home() {
+  const dispatch = useDispatch();
+  useEffect(() => {
+    dispatch(getData());
+    console.log("work");
+  }, []);
+
   const { profile, experience, education, languages, contact } = useSelector(
     dataSelector
   );

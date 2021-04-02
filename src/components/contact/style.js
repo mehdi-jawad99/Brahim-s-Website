@@ -7,6 +7,9 @@ export const Container = styled.div`
   border: 1px solid #ccc;
   font-family: "Caveat", cursive;
   border-bottom: none;
+  &::before {
+    content: "\f004";
+  }
 `;
 export const Text = styled.p`
   color: #ddd;

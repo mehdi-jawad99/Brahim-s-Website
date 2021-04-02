@@ -9,7 +9,6 @@ import {
 } from "react-icons/fa";
 
 function Contact({ contact, color }) {
-  console.log(contact.socials);
   let theSocials = contact.socials;
   return (
     <Container color={color}>
