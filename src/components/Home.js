@@ -17,12 +17,12 @@ function Home() {
   const dispatch = useDispatch();
   useEffect(() => {
     dispatch(getData());
-    console.log("work");
   }, []);
 
   const { profile, experience, education, languages, contact } = useSelector(
     dataSelector
   );
+
   const { color, second } = useSelector(mainColor);
 
   return (

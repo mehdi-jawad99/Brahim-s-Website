@@ -145,27 +145,27 @@
       {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/in/manneta/",
-        "Icon": "Linkedin"
+        "Icon": "/images/linkedin.png"
       },
       {
         "platform": "youtube",
         "url": "https://www.yourube.com/#",
-        "Icon": "Youtube"
+        "Icon": "/images/ytb.png"
       },
       {
         "platform": "twitter",
         "url": "https://www.twitter.com/#",
-        "Icon": "Twitter"
+        "Icon": "/images/twitter.png"
       },
       {
         "platform": "facebook",
         "url": "https://www.fb.com/#",
-        "Icon": "Facebook"
+        "Icon": "/images/Facebook.png"
       },
       {
         "platform": "instagram",
         "url": "https://www.instagram.com/beardandcode",
-        "Icon": "Instagram"
+        "Icon": "./images/inst.png"
       }
     ]
   },

@@ -7,9 +7,7 @@ export const Container = styled.div`
   border: 1px solid #ccc;
   font-family: "Caveat", cursive;
   border-bottom: none;
-  &::before {
-    content: "\f004";
-  }
+  padding-bottom: 40px;
 `;
 export const Text = styled.p`
   color: #ddd;
@@ -26,7 +24,18 @@ export const Email = styled.p`
   font-family: "Caveat", cursive;
   text-decoration: line-bottom;
   font-size: 40px;
-  padding-bottom: 40px;
+
   text-decoration: underline;
 `;
-export const Social = styled(Link)``;
+export const Social = styled.div`
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+`;
+export const Img = styled.img`
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  margin-left: 10px;
+  cursor: pointer;
+`;
