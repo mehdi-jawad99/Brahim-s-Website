@@ -18,7 +18,7 @@ function Experience({ experience }) {
   return (
     <Container>
       <div className="container">
-        <Section>Experience</Section>
+        <Section>Experiences</Section>
       </div>
       {experience.map((item) => (
         <Block key={item.id}>
